@@ -188,3 +188,5 @@ cd Scripts
 
 - [WPF-UI](https://github.com/lepoco/wpfui) - Fluent Design 组件库
 - [Segoe MDL2 Assets](https://docs.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font) - 图标字体
+
+## 此工具借助了Claude实现
